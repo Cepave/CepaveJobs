@@ -7,6 +7,8 @@
 
 對於 `Cloud Computing / Big Data / Open Source` 有興趣的您，*Cepave* 每日要處理的的資料量是好幾十 TB，是能讓您大展身手的極佳平台，歡迎加入我們！
 
+跟我們抱著同樣想法的您，歡迎加入我們！
+
 ### 公司文化
 
 我們崇尚 [F.L.A.G.](http://www.raychase.net/1107) 的工程師文化，鼓勵獨到的見解、激發創意。透過[最有效率的溝通、以及最少的管理](http://www.inside.com.tw/2015/05/24/bureaucracy-isnt-inevitable-heres-how-airbnb-beat-it)來完成團隊任務。所以期待來挑戰的您與我們一樣，對於技術充滿熱情，能自動自發，持續在能力上精進，和我們一起挑戰技術上的難題。
@@ -35,56 +37,141 @@
 - 勞、健保及退休金提撥：凡新進人員報到後即辦理勞、健保投保及退休金提撥
 
 ### 詳細職缺介紹  
-###### 【軟體工程師】
+
+###### 【軟體工程師 - Front End】
+
+**工作內容**： 
+
+- Implement the features and user interfaces of monitoring system.
+- Architect efficient and reusable front-end systems that drive complex web applications. (e.g., Data visualization.)
+- Collaborate with Product Designers, Product Managers, and Software Engineers to deliver compelling user-facing products.
+- Identify and resolve performance and scalability issues.
 
 **基本要求**：  
 
-- 具備**紮實的**電腦科學基礎知識
-  - 演算法、作業系統、計算機結構、編譯器
-- 熟練至少一種程式語言
-  - `Javascript/Go/Ruby/Python/Java/C++`
-- 熟練至少一套資料庫系統
-  - `MySQL/Redis/HBase/OpenTSDB`
-- 熟悉任一種腳本語言，對於自己的工作效率近乎苛求
-- 有 Geek 精神，熱衷開源解決方案研究
-- 自律且自我學習能力強，願意不斷地精進技術，並且對於新技術充滿熱情
+- Experience witch HTML/CSS, including concepts like layout, specificity, and cross-browser compatibility.
+- Proficient in Javascript, including concepts like asynchronous programming, closures, types, and ES6.
+- Experienced with at least one JS framework (React, Angular, etc.) combined with the capability to write beautiful code independently of these.
+- Can easily pick up new front end libraries and frameworks.
+- Familiarity with interactive data visualization using tools like D3.js, Flot, Highcharts, or Echarts.
+- Experience with Git.
 
 **加分項目**：  
 
-- 熟悉 Socket Programming
-- 熟悉 CDN 相關的 HTTP 以及 TCP/IP 協定，
-  - `RFC 2616/2756`
-  - `RFC 2186/2187`
-  - `RFC 3466/3568/3570`
-  - `RFC 2326/3550`
-- 曾經有過以下軟體的**使用經驗**
-  - `Nagios/Zabbix/Cacti/WhatsUp/Sensu/Consul/Prometheus`
-  - `Graphite/Logstash/Collectd/OpenTSDB/RRDTool`
-- 曾擔任 217 助教佳
+- Experience with scripting languages (Node.js, Python, etc.)
+- Familiar with pre-processors languages (SASS, LESS, or Compass)
+- Familiar with Task Runner (Grunt or Gulp)
+- Experience with module loader (Webpack, Browserify, or RequireJS)
+- Experience with web toolkit (Bootstrap, Foundation, or semantic-UI)
+- Experience with client-side graphics, animation and data visualization (SVG, HTML Canvas, CSS transitions/animations)
+- Experience with SPA (Single Page Application).
+- Understanding of UI/UX principles
+- Has participated in open source projects.
 
-###### 【資深軟體工程師】
+###### 【軟體工程師 - Devops】
 
-**基本要求**：
+**工作內容**： 
 
-- 三年以上工作經驗，同時滿足【軟體工程師】的基本要求
-- 對於單元測試、持續性整合、敏捷性開發瞭若指掌，並且對於 DevOps 也有一定程度的了解
-- 具備至少一個以上的使用經驗：
-  - `Amazon EC2/GCE/Azure/GAE/Heroku`
-- 具有雲端計算或 Big Data 的開發經驗：
-  - `Hadoop/HBase/HDFS/Zookeeper/Pig/Hive/Spark`
-  - `RabbitMQ/Thrift/ZeroMQ/ActiveMQ`
-  - `Cassandra/R/Flume/ElasticSearch/Solr`
+- Solve configuration management, authentication, and scaling problems. 
+- Operate and improve monitoring clusters, including patching to fix bugs.
+- Collaborate with the others to deliver monitoring solutions.
+- The role will be responsible for developing and maintain cloud computing services.
+- Be responsible for the workflow of continue integration.
+- Continually evaluate release processes and tools to find areas for improvement.
+- Contribute to the release and change management process by collaborating with the developers and Operations.
 
-**加分項目**：
+**基本要求**：  
 
-- 滿足【軟體工程師】的加分項目
-- 有過佈署至一百台以上機器或設備的經驗（不限定作業系統）
-  - `Docker/Vagrant/kubernetes`
-  - `Puppet/Chef/Ansible/Salt`
-- 有過以下軟體的**開發經驗**
-  - `Nagios/Zabbix/Cacti/WhatsUp/Sensu/Consul/Prometheus`
-  - `Graphite/Logstash/Collectd/OpenTSDB/RRDTool`
-- Machine learning、HCI、Algorithm design
+- Ability to use a wide variety of open source technologies and automation tools.
+- Experience with systems and IT operations.
+- Comfortable with frequent, incremental code testing and deployment.
+- Comfortable with collaboration, open communication and reaching across functional borders.
+- Unix-liked (Linux or FreeBSD) system administration and programming experience, able to automate tasks with (shell) scripts.
+- Participate in assigned projects and can work with minimal supervision.
+- Has knowledge of and ability to use configuration management tools and revision control system (Git, SVN, Saltstack, cfengine, etc.).
+- Solid experience in operating system automation, knowledge in Puppet, Chef, Salt, and Ansible.
+
+**加分項目**：  
+
+- Experience as a system administrator on production systems.
+- Experience with AWS, Azure, Google Cloud Platform or OpenStack.
+- Experience with test/deploy automation and/or continuous integration.
+- Experience with log processing (Elasticsearch, Logstash, Splunk, ..., etc.)
+- Experience in Monitoring systems concepts and Enterprise-class Monitoring Systems such as Nagios, Zenoss, and Zabbix,
+
+###### 【軟體工程師 - Network Infrastructure】
+
+**工作內容**： 
+
+- Develop solutions that will provide monitoring, logging, and alerting capabilities for next generation monitoring systems.
+- Develop scalable and distributed network services.
+- Develop services with vagrant and Docker containers.
+- Work with front end engineers and devops engineers.
+- Involve evaluating third party and open source software.
+
+**基本要求**：  
+
+- Knowledge of computer network and TCP/IP.
+- Proficient in Golang, Python, Perl, or Ruby.
+- Develop and augment RESTful APIs (web services) based on Node.js and golang.
+- Experience with branch, write, test, commit and deploy code across servers.
+- Familiar with SQL and databases like MySQL or PostgreSQL.
+- Problem-solving skills with an emphasis on resolution of complex technical application and infrastructure
+- Knowledge and experience with proper software development disciplines including: source code management, team development/collaboration and controlled releases.
+
+
+**加分項目**：  
+
+- Experience with CDN technology. (Squid, Nginx, ...)
+- Experience with cloud computing (e.g. distributed filesystem, BigTable and MapReduce framework.)
+- Proficient understanding of System Engineering security considerations, including use of isolated networks, VPN, SSL, SSH, and firewalls, to secure systems and networks.   
+- Understanding and experience participating in mature software development testing methodologies including: test driven development, unit, functional and integration testing.
+- Experience with Open Source web servers, message queueing and APIs.
+- Proficient in developing system-engineering solutions to help achieve highly available, highly scalable systems.
+- Experience evaluating and leveraging 3rd party commercial and open source System Engineering/Dev Ops solutions.
+
+###### 【軟體工程師 - Big Data】
+
+**工作內容**： 
+
+- Analyze server usage data, and define correct metrics that help shape the product better.
+- Diagnostics and troubleshooting of operational issues.
+- Predict anomaly.
+
+**基本要求**：  
+
+- Good programming skills in Python, R, Scala or Java.
+- Experience with managing and processing Big Data (terabytes of data present in web logs).
+- Experience with distributed programming platform such as Hadoop (YARN) or Spark.
+- Proficient in data analysis and visualization using R or PyData.
+- Familiar with SQL and databases like MySQL or PostgreSQL.
+- Desire to explore lots of data to find unexpected insights. 
+
+**加分項目**：  
+
+- Experience working with very large datasets
+- Real-time Hadoop query engines like Dremel, Cloudera Impala, Facebook Presto or Berkley Spark/Shark.
+- Working knowledge of real time events processing frameworks like Storm, S4 or Spark Streaming
+- Knowledge of main Hadoop ecosystem tools - Hive, Pig, Cascading, Sqoop, Flume, Hue, Oozie and etc.
+- Experience with database handing time series data such as OpenTSDB, or InfluxDB.
+- Experience with various Hadoop data store formats from CSV and JSON to ORC Files and Parquet.
+- Knowledge of some of NoSQL engines like MongoDB, Cassandra, Couchbase, Redis and etc.
+- Understanding of Machine Learning techniques and experience with such tools as R, Mahout, scikit-learn
+- Experience with Amazon technologies like Elastic MapReduce, RedShift, DynamoDB.
+- Working knowledge of ELS stack (Elasticsearch, Logstash, and Kibana).
+
+###### 【軟體工程師 - 工作地點：北京】
+
+**工作內容**： 
+
+詳情請參考[BOSS直聘](http://m.bosszhipin.com/boss/76d7d24f70920fd91XJz3Nu0?ab=1&sid=wxs-14398866218365921)，另含返台機票、住房補貼等福利。
+
+**基本要求**：  
+
+- 0 ~ 3 年年資
+- 熟悉 PHP, Python, 或 Go 任一語言
+- 對網路基礎建設的開發感興趣（如：CDN）
+- 想體驗大陸互聯網文化，能夠接地氣者
 
 ### 聯絡我們
 
@@ -93,13 +180,12 @@
 
 - 履歷，格式不限、中英文皆可
 
-若能提供以下資料會更好：
+若能提供以下資料會有很大的加分：
 
 - 個人網站或部落格 
 - Stackoverflow 帳號
 - Github 帳號
 - LinkedIn 帳號
-- Dribbble 帳號或作品集
 
 公司地址：台北市大安區新生南路三段6號
 
