@@ -59,7 +59,7 @@
 **加分項目**：  
 
 - Experience with scripting languages (Node.js, Python, etc.)
-- Familiar with pre-processors languages (SASS, LESS, or Compass)
+- Familiar with pre-processors languages (SASS & COMPASS, or LESS)
 - Familiar with Task Runner (Grunt or Gulp)
 - Experience with module loader (Webpack, Browserify, or RequireJS)
 - Experience with web toolkit (Bootstrap, Foundation, or semantic-UI)
