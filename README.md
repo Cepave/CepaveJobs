@@ -42,15 +42,15 @@
 
 **工作內容**： 
 
-- Implement the features and user interfaces of monitoring system.
+- Implement features and user interfaces for our monitoring system.
 - Architect efficient and reusable front-end systems that drive complex web applications. (e.g., Data visualization.)
-- Collaborate with Product Designers, Product Managers, and Software Engineers to deliver compelling user-facing products.
-- Identify and resolve performance and scalability issues.
+- Collaborate with Product Designers, Product Managers, and Software Engineers.
+- Identify and resolve performances and scalability issues.
 
 **基本要求**：  
 
-- Experience witch HTML/CSS, including concepts like layout, specificity, and cross-browser compatibility.
-- Proficient in Javascript, including concepts like asynchronous programming, closures, types, and ES6.
+- Experience with HTML/CSS, including layout, specificity, and cross-browser compatibility.
+- Proficient in Javascript, including asynchronous programming, closures, types, and ES6.
 - Experienced with at least one JS framework (React, Angular, etc.) combined with the capability to write beautiful code independently of these.
 - Can easily pick up new front end libraries and frameworks.
 - Familiarity with interactive data visualization using tools like D3.js, Flot, Highcharts, or Echarts.
@@ -66,7 +66,7 @@
 - Experience with client-side graphics, animation and data visualization (SVG, HTML Canvas, CSS transitions/animations)
 - Experience with SPA (Single Page Application).
 - Understanding of UI/UX principles
-- Has participated in open source projects.
+- Experience in open source projects.
 
 ###### 【軟體工程師 - Devops】
 
@@ -74,11 +74,11 @@
 
 - Solve configuration management, authentication, and scaling problems. 
 - Operate and improve monitoring clusters, including patching to fix bugs.
-- Collaborate with the others to deliver monitoring solutions.
+- Collaborate with others to deliver monitoring solutions.
 - The role will be responsible for developing and maintain cloud computing services.
-- Be responsible for the workflow of continue integration.
-- Continually evaluate release processes and tools to find areas for improvement.
-- Contribute to the release and change management process by collaborating with the developers and Operations.
+- Be responsible for the workflow of continuous integration.
+- Evaluate release processes and tools for continual improvement.
+- Contribute to the release and change of the management process with developers and Operations.
 
 **基本要求**：  
 
@@ -87,8 +87,8 @@
 - Comfortable with frequent, incremental code testing and deployment.
 - Comfortable with collaboration, open communication and reaching across functional borders.
 - Unix-liked (Linux or FreeBSD) system administration and programming experience, able to automate tasks with (shell) scripts.
-- Participate in assigned projects and can work with minimal supervision.
-- Has knowledge of and ability to use configuration management tools and revision control system (Git, SVN, Saltstack, cfengine, etc.).
+- Accomplish assigned projects under minimal supervision.
+- Ability to use configuration management tools and revision control system (Git, SVN, Saltstack, cfengine, etc.).
 - Solid experience in operating system automation, knowledge in Puppet, Chef, Salt, and Ansible.
 
 **加分項目**：  
@@ -103,11 +103,11 @@
 
 **工作內容**： 
 
-- Develop solutions that will provide monitoring, logging, and alerting capabilities for next generation monitoring systems.
+- Provide solutions to monitoring, logging, and alerting capabilities for next generation monitoring systems.
 - Develop scalable and distributed network services.
 - Develop services with vagrant and Docker containers.
 - Work with front end engineers and devops engineers.
-- Involve evaluating third party and open source software.
+- Evaluate third party/ open source software.
 
 **基本要求**：  
 
@@ -125,7 +125,7 @@
 - Experience with CDN technology. (Squid, Nginx, ...)
 - Experience with cloud computing (e.g. distributed filesystem, BigTable and MapReduce framework.)
 - Proficient understanding of System Engineering security considerations, including use of isolated networks, VPN, SSL, SSH, and firewalls, to secure systems and networks.   
-- Understanding and experience participating in mature software development testing methodologies including: test driven development, unit, functional and integration testing.
+- Experience in mature software development testing methodologies including: test driven development, unit, functional and integration testing.
 - Experience with Open Source web servers, message queueing and APIs.
 - Proficient in developing system-engineering solutions to help achieve highly available, highly scalable systems.
 - Experience evaluating and leveraging 3rd party commercial and open source System Engineering/Dev Ops solutions.
@@ -155,7 +155,7 @@
 - Knowledge of main Hadoop ecosystem tools - Hive, Pig, Cascading, Sqoop, Flume, Hue, Oozie and etc.
 - Experience with database handing time series data such as OpenTSDB, or InfluxDB.
 - Experience with various Hadoop data store formats from CSV and JSON to ORC Files and Parquet.
-- Knowledge of some of NoSQL engines like MongoDB, Cassandra, Couchbase, Redis and etc.
+- Knowledge of NoSQL engines like MongoDB, Cassandra, Couchbase, Redis and etc.
 - Understanding of Machine Learning techniques and experience with such tools as R, Mahout, scikit-learn
 - Experience with Amazon technologies like Elastic MapReduce, RedShift, DynamoDB.
 - Working knowledge of ELS stack (Elasticsearch, Logstash, and Kibana).
