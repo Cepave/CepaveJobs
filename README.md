@@ -42,17 +42,18 @@
 
 **工作內容**： 
 
-- Implement features and user interfaces for our monitoring system.
-- Architect efficient and reusable front-end systems that drive complex web applications. (e.g., Data visualization.)
-- Collaborate with Product Designers, Product Managers, and Software Engineers.
-- Identify and resolve performances and scalability issues.
+- Implement user-facing features of our monitoring system.
+- Built up efficient and reusable front-end systems that drive complex web applications. (e.g., Data visualization.)
+- Collaborate with Product Designers, Product Managers, and Software Engineers to deliver compelling user-facing products.
+- Identify and resolve performance and scalability issues.
 
 **基本要求**：  
 
 - Experience with HTML/CSS, including layout, specificity, and cross-browser compatibility.
 - Proficient in Javascript, including asynchronous programming, closures, types, and ES6.
+- Experience with at least one JS framework (React, Angular, etc.) and equipped capability to write well structured code.
 - Experienced with at least one JS framework (React, Angular, etc.) combined with the capability to write beautiful code independently of these.
-- Can easily pick up new front end libraries and frameworks.
+- Ability to pick up new front end libraries and frameworks.
 - Familiarity with interactive data visualization using tools like D3.js, Flot, Highcharts, or Echarts.
 - Experience with Git.
 
@@ -63,21 +64,21 @@
 - Familiar with Task Runner (Grunt or Gulp)
 - Experience with module loader (Webpack, Browserify, or RequireJS)
 - Experience with web toolkit (Bootstrap, Foundation, or semantic-UI)
-- Experience with client-side graphics, animation and data visualization (SVG, HTML Canvas, CSS transitions/animations)
+- Acquainted with client-side graphics, animation and data visualization (SVG, HTML Canvas, CSS transitions/animations)
 - Experience with SPA (Single Page Application).
 - Understanding of UI/UX principles
-- Experience in open source projects.
+- Experienced in open source projects.
 
 ###### 【軟體工程師 - Devops】
 
 **工作內容**： 
 
 - Solve configuration management, authentication, and scaling problems. 
-- Operate and improve monitoring clusters, including patching to fix bugs.
-- Collaborate with others to deliver monitoring solutions.
-- The role will be responsible for developing and maintain cloud computing services.
-- Be responsible for the workflow of continuous integration.
-- Evaluate release processes and tools for continual improvement.
+- Operate and improve monitoring clusters, including patching and fixing bugs.
+- Collaborate with the others to deliver monitoring solutions.
+- The role will be responsible for developing and maintaining cloud computing services.
+- Be responsible for the workflow of continue integration.
+- Evaluate release processes and tools for advanced improvement. 
 - Contribute to the release and change of the management process with developers and Operations.
 
 **基本要求**：  
@@ -103,7 +104,7 @@
 
 **工作內容**： 
 
-- Provide solutions to monitoring, logging, and alerting capabilities for next generation monitoring systems.
+- Provide solutions of monitoring, logging, and alerting capabilities for next generation monitoring systems.
 - Develop scalable and distributed network services.
 - Develop services with vagrant and Docker containers.
 - Work with front end engineers and devops engineers.
@@ -124,10 +125,10 @@
 
 - Experience with CDN technology. (Squid, Nginx, ...)
 - Experience with cloud computing (e.g. distributed filesystem, BigTable and MapReduce framework.)
-- Proficient understanding of System Engineering security considerations, including use of isolated networks, VPN, SSL, SSH, and firewalls, to secure systems and networks.   
-- Experience in mature software development testing methodologies including: test driven development, unit, functional and integration testing.
+- Proficient understanding of System Engineering, including using isolated networks such as VPN, SSL, SSH and firewalls to fulfill any possible security considerations.
+- Understanding and experience participating in mature software development testing methodologies including: test driven development, unit, functional and integration testing.
 - Experience with Open Source web servers, message queueing and APIs.
-- Proficient in developing system-engineering solutions to help achieve highly available, highly scalable systems.
+- Proficient in developing system-engineering solutions to help with achieving highly available and scalable systems.
 - Experience evaluating and leveraging 3rd party commercial and open source System Engineering/Dev Ops solutions.
 
 ###### 【軟體工程師 - Big Data】
@@ -152,13 +153,42 @@
 - Experience working with very large datasets
 - Real-time Hadoop query engines like Dremel, Cloudera Impala, Facebook Presto or Berkley Spark/Shark.
 - Working knowledge of real time events processing frameworks like Storm, S4 or Spark Streaming
-- Knowledge of main Hadoop ecosystem tools - Hive, Pig, Cascading, Sqoop, Flume, Hue, Oozie and etc.
+- Knowledge of main Hadoop ecosystem tools like Hive, Pig, Cascading, Sqoop, Flume, Hue, Oozie and etc.
 - Experience with database handing time series data such as OpenTSDB, or InfluxDB.
 - Experience with various Hadoop data store formats from CSV and JSON to ORC Files and Parquet.
 - Knowledge of NoSQL engines like MongoDB, Cassandra, Couchbase, Redis and etc.
-- Understanding of Machine Learning techniques and experience with such tools as R, Mahout, scikit-learn
+- Understanding of machine learning techniques and experience of using tools as R, Mahout, scikit-learn
 - Experience with Amazon technologies like Elastic MapReduce, RedShift, DynamoDB.
 - Working knowledge of ELS stack (Elasticsearch, Logstash, and Kibana).
+
+###### 【架構師】
+
+- 勿以器馭心：不依賴特定的語言或工具，而是依照問題屬性選擇最適合的來用。 - We don’t favor any one technology and we choose the right tool for the job.  
+- Strong communication and presentation skills.
+- Keen attention to detail and a steadfast commitment to quality
+- Highly self-motivated and capable of working without continuous direction in a demanding, fast-paced, and often rapidly changing environment
+- High adaptability to different projects, customers and technologies
+- Experience with BI platforms, reporting tools, data visualization products, ETL engines
+- Experience with distributed systems 
+- Working knowledge of NoSQL storage technologies 
+- Data mining, machine learning, or statistics related knowledge.
+- Deep understanding of mathematics and its business application
+- Familiar with open source tools (e.g., data analysis, data visualization, cloud computation platform).
+- Experience with Linux Administration
+- Participate in managing and maintaining the product on an on-going basis
+- Excellent analytical and problem solving skills when analyzing, understanding and interpreting requirements, synthesizing information, assessing possible courses of action and selecting the best approach
+- Predictive modeling of aggregate customer behavior
+- Collaborate with Project Managers, Developers and business staff to develop products & services
+- We are looking for software engineers with a passion for networking and aptitude for building scalable distributed systems.
+- Consider hypothesis by concrete business effects
+- 5+ years data analytics experience for an eCommerce company
+- Scripting language experience (Python, Perl, Ruby etc.) (preferred)
+- Proven self-starter with the ability to document technical data and track incidents, projects, and tasks on a daily basis and in a clear and concise manner.
+- Strong software development ability in Java or C++.
+- M.S. in Applied Mathematics, Physics, Computer Science or other quantitative science (Ph.D. strongly preferred)
+- Solid understanding of algorithms and data structures
+- Develop & recommend metrics to drive business decisions
+- Create business solutions through a combination of science and software
 
 ###### 【軟體工程師 - 工作地點：北京】
 
