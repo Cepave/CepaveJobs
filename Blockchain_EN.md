@@ -6,7 +6,7 @@
 - The platform is inspired by blockchain technology and consequently is built upon cryptographic protocols and distributed database techniques.
 - If you are a passionate blockchain engineer with a pioneering entrepreneurial spirit, we want you to help us in building the platform on a custom blockchain from scratch.
 
-**基本要求**：
+**Requirements**：
 
 - Familiar with Bitcoin, BigchainDB, Ethereum, IPFS, or other blockchain related technologies.
 - General understanding of the blockchain technology.
@@ -14,7 +14,7 @@
 - General Understanding of the cryptographic principles underpinning of Bitcoin 2.0 and Blockchain technologies.
 - Understanding of various distributed consensus methodologies(Raft, Mining, PoS, Paxos, etc).
 
-**加分項目**：
+**Nice to Have**：
 
 - Active demonstrable interest in blockchain, P2P distributed systems, DHTs or cryptography.
 - Understanding of cryptography, including asymmetric (pub/priv key), symmetric, hash functions, encryption/signatures.

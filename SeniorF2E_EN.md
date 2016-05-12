@@ -15,7 +15,7 @@
 - Collaborate with Product Designers, Product Managers, and Software Engineers to deliver compelling user-facing products
 - Identify and resolve performance and scalability issues
 
-**基本要求**：  
+**Requirements**：
 
 - 3+ years of web development experience and preferably a BS or MS degree in computer science with strong computer science fundaments
 - Proficient in Javascript, including asynchronous programming, closures, types, and ES6
@@ -30,7 +30,7 @@
 - Basic hands on Linux development experience including application development and shell script development
 - Experience in mobile & cross-browser web application
 
-**加分項目**：  
+**Nice to Have**：
 
 - Experience with Isomorphic(Universal) web design
 - Familiarity with interactive data visualization using tools like D3.js, Flot, Highcharts, or Echarts
