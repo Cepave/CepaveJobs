@@ -36,18 +36,18 @@
 - 年度員工健康檢查
 - 勞、健保及退休金提撥：凡新進人員報到後即辦理勞、健保投保及退休金提撥
 
-### 詳細職缺介紹  
+### 詳細職缺介紹
 
 ###### 【軟體工程師 - Front End】
 
-**工作內容**： 
+**工作內容**：
 
 - Implement user-facing features of our monitoring system.
 - Built up efficient and reusable front-end systems that drive complex web applications. (e.g., Data visualization.)
 - Collaborate with Product Designers, Product Managers, and Software Engineers to deliver compelling user-facing products.
 - Identify and resolve performance and scalability issues.
 
-**基本要求**：  
+**基本要求**：
 
 - Experience with HTML/CSS, including layout, specificity, and cross-browser compatibility.
 - Proficient in Javascript, including asynchronous programming, closures, types, and ES6.
@@ -57,7 +57,7 @@
 - Familiarity with interactive data visualization using tools like D3.js, Flot, Highcharts, or Echarts.
 - Experience with Git.
 
-**加分項目**：  
+**加分項目**：
 
 - Experience with scripting languages (Node.js, Python, etc.)
 - Familiar with pre-processors languages (SASS & COMPASS, or LESS)
@@ -71,17 +71,17 @@
 
 ###### 【軟體工程師 - Devops】
 
-**工作內容**： 
+**工作內容**：
 
-- Solve configuration management, authentication, and scaling problems. 
+- Solve configuration management, authentication, and scaling problems.
 - Operate and improve monitoring clusters, including patching and fixing bugs.
 - Collaborate with the others to deliver monitoring solutions.
 - The role will be responsible for developing and maintaining cloud computing services.
 - Be responsible for the workflow of continue integration.
-- Evaluate release processes and tools for advanced improvement. 
+- Evaluate release processes and tools for advanced improvement.
 - Contribute to the release and change of the management process with developers and Operations.
 
-**基本要求**：  
+**基本要求**：
 
 - Ability to use a wide variety of open source technologies and automation tools.
 - Experience with systems and IT operations.
@@ -92,7 +92,7 @@
 - Ability to use configuration management tools and revision control system (Git, SVN, Saltstack, cfengine, etc.).
 - Solid experience in operating system automation, knowledge in Puppet, Chef, Salt, and Ansible.
 
-**加分項目**：  
+**加分項目**：
 
 - Experience as a system administrator on production systems.
 - Experience with AWS, Azure, Google Cloud Platform or OpenStack.
@@ -102,7 +102,7 @@
 
 ###### 【軟體工程師 - Network Infrastructure】
 
-**工作內容**： 
+**工作內容**：
 
 - Provide solutions of monitoring, logging, and alerting capabilities for next generation monitoring systems.
 - Develop scalable and distributed network services.
@@ -110,7 +110,7 @@
 - Work with front end engineers and devops engineers.
 - Evaluate third party/ open source software.
 
-**基本要求**：  
+**基本要求**：
 
 - Knowledge of computer network and TCP/IP.
 - Proficient in Golang, Python, Perl, or Ruby.
@@ -121,7 +121,7 @@
 - Knowledge and experience with proper software development disciplines including: source code management, team development/collaboration and controlled releases.
 
 
-**加分項目**：  
+**加分項目**：
 
 - Experience with CDN technology. (Squid, Nginx, ...)
 - Experience with cloud computing (e.g. distributed filesystem, BigTable and MapReduce framework.)
@@ -133,22 +133,22 @@
 
 ###### 【軟體工程師 - Big Data】
 
-**工作內容**： 
+**工作內容**：
 
 - Analyze server usage data, and define correct metrics that help shape the product better.
 - Diagnostics and troubleshooting of operational issues.
 - Predict anomaly.
 
-**基本要求**：  
+**基本要求**：
 
 - Good programming skills in Python, R, Scala or Java.
 - Experience with managing and processing Big Data (terabytes of data present in web logs).
 - Experience with distributed programming platform such as Hadoop (YARN) or Spark.
 - Proficient in data analysis and visualization using R or PyData.
 - Familiar with SQL and databases like MySQL or PostgreSQL.
-- Desire to explore lots of data to find unexpected insights. 
+- Desire to explore lots of data to find unexpected insights.
 
-**加分項目**：  
+**加分項目**：
 
 - Experience working with very large datasets
 - Real-time Hadoop query engines like Dremel, Cloudera Impala, Facebook Presto or Berkley Spark/Shark.
@@ -161,42 +161,45 @@
 - Experience with Amazon technologies like Elastic MapReduce, RedShift, DynamoDB.
 - Working knowledge of ELS stack (Elasticsearch, Logstash, and Kibana).
 
-###### 【架構師】
+###### 【軟體工程師 - Blockchain】
 
-- 勿以器馭心：不依賴特定的語言或工具，而是依照問題屬性選擇最適合的來用。 - We don’t favor any one technology and we choose the right tool for the job.  
-- Strong communication and presentation skills.
-- Keen attention to detail and a steadfast commitment to quality
-- Highly self-motivated and capable of working without continuous direction in a demanding, fast-paced, and often rapidly changing environment
-- High adaptability to different projects, customers and technologies
-- Experience with BI platforms, reporting tools, data visualization products, ETL engines
-- Experience with distributed systems 
-- Working knowledge of NoSQL storage technologies 
-- Data mining, machine learning, or statistics related knowledge.
-- Deep understanding of mathematics and its business application
-- Familiar with open source tools (e.g., data analysis, data visualization, cloud computation platform).
-- Experience with Linux Administration
-- Participate in managing and maintaining the product on an on-going basis
-- Excellent analytical and problem solving skills when analyzing, understanding and interpreting requirements, synthesizing information, assessing possible courses of action and selecting the best approach
-- Predictive modeling of aggregate customer behavior
-- Collaborate with Project Managers, Developers and business staff to develop products & services
-- We are looking for software engineers with a passion for networking and aptitude for building scalable distributed systems.
-- Consider hypothesis by concrete business effects
-- 5+ years data analytics experience for an eCommerce company
-- Scripting language experience (Python, Perl, Ruby etc.) (preferred)
-- Proven self-starter with the ability to document technical data and track incidents, projects, and tasks on a daily basis and in a clear and concise manner.
-- Strong software development ability in Java or C++.
-- M.S. in Applied Mathematics, Physics, Computer Science or other quantitative science (Ph.D. strongly preferred)
-- Solid understanding of algorithms and data structures
-- Develop & recommend metrics to drive business decisions
-- Create business solutions through a combination of science and software
+**工作內容**：
+
+- Our core business is the development of a scalable asset tokenization platform that marries real world assets and real world governance with a decentralized consensus platform.
+- The platform is inspired by blockchain technology and consequently is built upon cryptographic protocols and distributed database techniques.
+- If you are a passionate blockchain engineer with a pioneering entrepreneurial spirit, we want you to help us in building the platform on a custom blockchain from scratch.
+
+**基本要求**：
+
+- Familiar with Bitcoin, BigchainDB, Ethereum, IPFS, or other blockchain related technologies.
+- General understanding of the blockchain technology.
+- General understanding of the P2P networking
+- General Understanding of the cryptographic principles underpinning of Bitcoin 2.0 and Blockchain technologies.
+- Understanding of various distributed consensus methodologies(Raft, Mining, PoS, Paxos, etc).
+
+**加分項目**：
+
+- Active demonstrable interest in blockchain, P2P distributed systems, DHTs or cryptography.
+- Understanding of cryptography, including asymmetric (pub/priv key), symmetric, hash functions, encryption/signatures.
+- Understand complex business processes in a diverse set of industries.
+- Ability to write reusable/modular software and software APIs.
+- Understanding of Bitcoin, including familiarity with Bitcoin transaction scripting and knowledge of how Bitcoin and various other cryptocurrencies differ.
+- Knowledge on how to deploy these Blockchain applications to Cloud providers like AWS.
+- Practical experience in developing on Blockchain platforms such as Bitcoin or Ethereum.
+    - Proven experience using Ethereum, bonus points for commercial experience
+    - Ability to develop well written Ethereum smart contracts with good test coverage.
+    - Ability to interpret and reason through an EVM stack trace output.
+    - A good understanding of the workings of the Ethereum Virtual Machine.
+    - Can write Ethereum smart contracts in Solidity, Serpent, HLL, or LLL.
+    - Ability to write reusable/modular smart contracts and smart contract APIs.
 
 ###### 【軟體工程師 - 工作地點：北京】
 
-**工作內容**： 
+**工作內容**：
 
 詳情請參考[BOSS直聘](http://m.bosszhipin.com/boss/76d7d24f70920fd91XJz3Nu0?ab=1&sid=wxs-14398866218365921)，另含返台機票、住房補貼等福利。
 
-**基本要求**：  
+**基本要求**：
 
 - 0 ~ 3 年年資
 - 熟悉 PHP, Python, 或 Go 任一語言
@@ -205,14 +208,14 @@
 
 ### 聯絡我們
 
-請準備以下資料，並且附上 Hangout 聯絡方式發信至： `hr@cepave.com` 。  
+請準備以下資料，並且附上 Hangout 聯絡方式發信至： `hr@cepave.com` 。
 我們會儘快與您聯繫並約定第一輪 Hangout 視訊面試時間。
 
 - 履歷，格式不限、中英文皆可
 
 若能提供以下資料會有很大的加分：
 
-- 個人網站或部落格 
+- 個人網站或部落格
 - Stackoverflow 帳號
 - Github 帳號
 - LinkedIn 帳號
