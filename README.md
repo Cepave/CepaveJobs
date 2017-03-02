@@ -222,6 +222,67 @@
 - 精通產品原型設計工具的使用，如：Sketch, InVision, Axure
 - 優秀的產品規劃能力、理解能力、創新能力，開闊的思維能力，良好的溝通、與協調能力
 - 對 CDN 業務或運維工作有深入理解，有能力制定監控系統的操作流程規範
+###### 【架構師 - Blockchain】
+
+**工作內容**：
+
+- Collaborate with project managers, developers and business staff to develop products & services
+- Participate in managing and maintaining the product on an on-going basis
+- Be the thought leader on latest technologies, methodologies, and trends in the industry.
+- Lead the competitiveness of the solutions and architecture evolution.
+- Work with teams in China and Taiwan in the overall project execution.
+- Provide guidance and drive resolutions on technical issues.
+- Be a team player - share, reuse and make the team evolve
+
+**基本要求**：
+
+- Solid solution architecture and light development skills
+- Solid understanding of algorithms and data structures
+- Strong communication and presentation skills.
+- Highly self-motivated and capable of working without continuous direction in a demanding, fast-paced, and often rapidly changing environment
+- With a passion for blockchain and aptitude for building scalable, decentralized, and distributed systems.
+- High adaptability to different projects, customers and technologies
+- Keen attention to detail and a steadfast commitment to quality
+- People who doesn't favor any one technology but choose the right tool for the job.
+- Technical prowess and passion-especially for modern Application design practices and principles
+
+**加分項目**：
+
+- Excellent analytical and problem solving skills when analyzing, understanding and interpreting requirements, synthesizing information, assessing possible courses of action and selecting the best approach
+- Consider hypothesis by concrete business effects
+- Proven self-starter with the ability to document technical data and track incidents, projects, and tasks on a daily basis and in a clear and concise manner.
+- Develop & recommend metrics to drive business decisions
+- Create business solutions through a combination of science and software
+- Demonstrate leading high performance teams in planning and execution.
+- Experience in blockchain, with deep understanding of successful practices.
+
+###### 【產品經理 - Blockchain】
+
+**工作內容**：
+
+- 明確定義產品需求，編寫主要使用場景的產品用例
+- 持續進行使用者訪談與分析等工作，對產品開發進行快速迭代
+- 跨產品線協調資源，確保研發/設計/運維資源的投入產出比，跟進專案進度和質量
+- 製作產品原型，把握產品細節，確保監控系統的易用性與可用性
+- 對接研發/設計/運維人員，制定產品開發時程與上線策略
+- 跟蹤優化、整理使用者反饋，對使用行為進行統計分析，相應地制定版本優化計劃並跟進實施
+
+**基本要求**：
+
+- 三年以上計算機領域的研發或產品經理工作經驗
+- 樂觀、開朗，具備較強的團隊管理能力及抗壓能力，有一定的人格魅力
+- 具有出色的資料分析能力，能透過系統收集的數據進行有效決策及時解決問題
+- 擁有針對需求做分析->過濾->拆解->抽象->歸納、積累業務要素，進一步提煉產品的能力（i.e., [Computational Thinking](http://blog.orangeapple.tw/posts/what-is-computational-thinking/)）
+- 善於使用使用者訪談、場景分析、人物誌設計法、A/B Testing 或其他專業分析手段
+- 能夠撰寫高質量的產品需求與用例文檔，精通產品原型工具的使用
+- 具有良好的溝通與協調能力，能夠有效地把控產品進度，熟悉敏捷式開發迭代方式
+
+**加分項目**：
+
+- 三年以上產品經理工作經驗，並可提供實際可用的產品案例，有區塊鏈領域相關經驗者優先
+- 有跨國團隊合作開發經驗，出色的水平溝通與協調能力
+- 精通產品原型設計工具的使用，如：Sketch, InVision, Axure
+- 優秀的產品規劃能力、理解能力、創新能力，開闊的思維能力，良好的溝通、與協調能力
 
 ###### 【軟體工程師 - 工作地點：北京】
 
