@@ -1,7 +1,6 @@
+###### 【Software Engineer - SRE】
 
-###### 【軟體工程師 - SRE】
-
-**工作內容**：
+**Responsibility**：
 
 - Solve configuration management, authentication, and scaling problems.
 - Operate and improve monitoring clusters, including patching and fixing bugs.
@@ -11,7 +10,7 @@
 - Evaluate release processes and tools for advanced improvement.
 - Contribute to the release and change of the management process with developers and Operations.
 
-**基本要求**：
+**Requirements**：
 
 - Ability to use a wide variety of open source technologies and automation tools.
 - Experience with systems and IT operations.
@@ -22,7 +21,7 @@
 - Ability to use configuration management tools and revision control system (Git, SVN, Saltstack, cfengine, etc.).
 - Solid experience in operating system automation, knowledge in Puppet, Chef, Salt, and Ansible.
 
-**加分項目**：
+**Nice to Have**：
 
 - Experience as a system administrator on production systems.
 - Experience with AWS, Azure, Google Cloud Platform or OpenStack.
