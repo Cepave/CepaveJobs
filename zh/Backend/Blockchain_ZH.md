@@ -92,3 +92,37 @@
 - 讓你把工作經歷寫在 Github 上作為未來最佳的履歷
 - 各種 OS 的筆電任你挑選（Macbook, ThinkPad X1, Dell XPS 等等），以及 24 吋螢幕
 - 世界級的舞台供你發揮、挑戰性的問題待你來一同解決（更多請看：cepave.com）
+
+###### 【架構師 - Blockchain】
+
+**工作內容**：
+
+- Collaborate with project managers, developers and business staff to develop products & services
+- Participate in managing and maintaining the product on an on-going basis
+- Be the thought leader on latest technologies, methodologies, and trends in the industry.
+- Lead the competitiveness of the solutions and architecture evolution.
+- Work with teams in China and Taiwan in the overall project execution.
+- Provide guidance and drive resolutions on technical issues.
+- Be a team player - share, reuse and make the team evolve
+
+**基本要求**：
+
+- Solid solution architecture and light development skills
+- Solid understanding of algorithms and data structures
+- Strong communication and presentation skills.
+- Highly self-motivated and capable of working without continuous direction in a demanding, fast-paced, and often rapidly changing environment
+- With a passion for blockchain and aptitude for building scalable, decentralized, and distributed systems.
+- High adaptability to different projects, customers and technologies
+- Keen attention to detail and a steadfast commitment to quality
+- People who doesn't favor any one technology but choose the right tool for the job.
+- Technical prowess and passion-especially for modern Application design practices and principles
+
+**加分項目**：
+
+- Excellent analytical and problem solving skills when analyzing, understanding and interpreting requirements, synthesizing information, assessing possible courses of action and selecting the best approach
+- Consider hypothesis by concrete business effects
+- Proven self-starter with the ability to document technical data and track incidents, projects, and tasks on a daily basis and in a clear and concise manner.
+- Develop & recommend metrics to drive business decisions
+- Create business solutions through a combination of science and software
+- Demonstrate leading high performance teams in planning and execution.
+- Experience in blockchain, with deep understanding of successful practices.
